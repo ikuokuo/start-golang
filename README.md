@@ -9,6 +9,9 @@ Getting started:
 - crypto
   - [_crypto/aes_encrypt.go](_crypto/aes_encrypt.go)
   - [_crypto/aes_decrypt.go](_crypto/aes_decrypt.go)
+- io
+  - [_io/ioutil_readfile.go](_io/ioutil_readfile.go)
+  - [_io/ioutil_writefile.go](_io/ioutil_writefile.go)
 - net
   - [_net/http_server.go](_net/http_server.go)
 
