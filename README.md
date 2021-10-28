@@ -6,14 +6,17 @@ Getting started:
 
 [Standard library](https://golang.org/pkg/):
 
-- crypto
-  - [_crypto/aes_encrypt.go](_crypto/aes_encrypt.go)
-  - [_crypto/aes_decrypt.go](_crypto/aes_decrypt.go)
-- io
-  - [_io/ioutil_readfile.go](_io/ioutil_readfile.go)
-  - [_io/ioutil_writefile.go](_io/ioutil_writefile.go)
-- net
-  - [_net/http_server.go](_net/http_server.go)
+- [crypto](https://pkg.go.dev/crypto)
+  - [aes](https://pkg.go.dev/crypto/aes)
+    - [aes_encrypt.go](_crypto/aes_encrypt.go)
+    - [aes_decrypt.go](_crypto/aes_decrypt.go)
+- [io](https://pkg.go.dev/io)
+  - [ioutil](https://pkg.go.dev/io/ioutil)
+    - [ioutil_readfile.go](_io/ioutil_readfile.go)
+    - [ioutil_writefile.go](_io/ioutil_writefile.go)
+- [net](https://pkg.go.dev/net)
+  - [http](https://pkg.go.dev/net/http)
+    - [http_server.go](_net/http_server.go)
 
 Popular library:
 

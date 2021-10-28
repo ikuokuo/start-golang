@@ -24,7 +24,7 @@ func main() {
 }
 
 // NewGCM (Decrypt)
-//  https://pkg.go.dev/crypto/cipher@go1.17.2#example-NewGCM-Decrypt
+//  https://pkg.go.dev/crypto/cipher#example-NewGCM-Decrypt
 func aesDecrypt(key []byte, ciphertext []byte) ([]byte, error) {
 	block, err := aes.NewCipher(key)
 	if err != nil {
