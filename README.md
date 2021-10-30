@@ -10,6 +10,13 @@ Getting started:
   - [aes](https://pkg.go.dev/crypto/aes)
     - [aes_encrypt.go](_crypto/aes_encrypt.go)
     - [aes_decrypt.go](_crypto/aes_decrypt.go)
+- [encoding](https://pkg.go.dev/encoding)
+  - [json](https://pkg.go.dev/encoding/json)
+    - [json_marshal.go](_encoding/json_marshal.go)
+    - [json_unmarshal.go](_encoding/json_unmarshal.go)
+  - [xml](https://pkg.go.dev/encoding/xml)
+    - [xml_marshal.go](_encoding/xml_marshal.go)
+    - [xml_unmarshal.go](_encoding/xml_unmarshal.go)
 - [io](https://pkg.go.dev/io)
   - [ioutil](https://pkg.go.dev/io/ioutil)
     - [ioutil_readfile.go](_io/ioutil_readfile.go)
@@ -22,6 +29,8 @@ Popular library:
 
 - Command Line
   - [cobra](https://github.com/spf13/cobra), [_/start-cobra](_/start-cobra)
+- YAML
+  - [go-yaml](https://github.com/go-yaml/yaml), [_/start-yaml](_/start-yaml)
 
 ## References
 
