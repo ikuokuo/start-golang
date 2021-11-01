@@ -24,6 +24,7 @@ Getting started:
 - [net](https://pkg.go.dev/net)
   - [http](https://pkg.go.dev/net/http)
     - [http_server.go](_net/http_server.go)
+  - [interface.go](_net/interface.go)
 
 Popular library:
 
