@@ -8,6 +8,8 @@
 
 ```bash
 cd start-golang/_/start-yaml
+go mod init github.com/ikuokuo/start-golang/_/start-yaml
+
 go get -u gopkg.in/yaml.v3
 ```
 

@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/ikuokuo/start-golang/_/start-yaml/common"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 func main() {

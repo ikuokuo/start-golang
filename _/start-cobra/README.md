@@ -10,6 +10,8 @@ Install the `cobra` generator executable along with the library and its dependen
 
 ```zsh
 cd start-golang/_/start-cobra
+go mod init github.com/ikuokuo/start-golang/_/start-cobra
+
 go get -u github.com/spf13/cobra/cobra
 ```
 
