@@ -30,6 +30,8 @@ Popular library:
 
 - Command Line
   - [cobra](https://github.com/spf13/cobra), [_/start-cobra](_/start-cobra)
+- ORM
+  - [ent](https://github.com/ent/ent), [_/start-ent](_/start-ent)
 - Web Frameworks
   - [Gin](https://github.com/gin-gonic/gin), [_/start-gin](_/start-gin)
 - YAML
