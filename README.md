@@ -1,10 +1,10 @@
 # Start Go
 
-Getting started:
+## Getting started
 
 - [A Tour of Go](https://tour.golang.org/), [_tour](_tour)
 
-[Standard library](https://golang.org/pkg/):
+## [Standard library](https://golang.org/pkg/)
 
 - [crypto](https://pkg.go.dev/crypto)
   - [aes](https://pkg.go.dev/crypto/aes)
@@ -26,7 +26,7 @@ Getting started:
     - [http_server.go](_net/http_server.go)
   - [interface.go](_net/interface.go)
 
-Popular library:
+## Popular library
 
 - Command Line
   - [cobra](https://github.com/spf13/cobra), [_/start-cobra](_/start-cobra)
