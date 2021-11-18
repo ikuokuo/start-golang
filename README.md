@@ -25,6 +25,10 @@
   - [http](https://pkg.go.dev/net/http)
     - [http_server.go](_net/http_server.go)
   - [interface.go](_net/interface.go)
+- [time](https://pkg.go.dev/time)
+  - [tick.go](_time/tick.go)
+  - [ticker.go](_time/ticker.go)
+  - [timer.go](_time/timer.go)
 
 ## Popular library
 
