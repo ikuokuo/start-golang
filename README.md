@@ -39,7 +39,7 @@
 - ORM
   - [ent](https://github.com/ent/ent), [_/start-ent](_/start-ent)
 - Web Frameworks
-  - [Gin](https://github.com/gin-gonic/gin), [_/start-gin](_/start-gin)
+  - [Gin](https://github.com/gin-gonic/gin), [_/start-gin](_/start-gin), [_/start-gin-https](_/start-gin-https)
 - YAML
   - [go-yaml](https://github.com/go-yaml/yaml), [_/start-yaml](_/start-yaml)
 
