@@ -3,6 +3,7 @@
 ## Getting started
 
 - [A Tour of Go](https://tour.golang.org/), [_tour](_tour)
+- [How to cross compile](docs/cross_compile.md)
 
 ## [Standard library](https://golang.org/pkg/)
 
